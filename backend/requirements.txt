@@ -1,0 +1,9 @@
+google-genai
+pypdf
+python-docx
+pillow
+gTTS
+SpeechRecognition
+fastapi
+uvicorn
+python-multipart
